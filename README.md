@@ -14,4 +14,4 @@ OUTPUT : confusion matrix, accuracy, recall score and precision score of the pre
 
 Language Used : Python
 
-Thank you for visiting here.
+Thank you for visiting.
