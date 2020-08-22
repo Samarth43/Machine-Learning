@@ -6,10 +6,11 @@ These two files contains the solution of a same problem with 2 different approac
 
  
  
- PROBLEM : Predict if the customer will purchase an iPhone or not, given their gender, age and salary.
+PROBLEM : Predict if the customer will purchase an iPhone or not, given their gender, age and salary.
  
- INPUT : as gender, age and salary of a person
- OUTPUT : confusion matrix, accuracy, recall score and precision score of the prediction
+INPUT : as gender, age and salary of a person
+ 
+OUTPUT : confusion matrix, accuracy, recall score and precision score of the prediction
 
 Language Used : Python
 
