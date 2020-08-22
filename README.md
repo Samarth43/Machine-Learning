@@ -1,6 +1,6 @@
 Hello Everyone!! I Welcome you all here.
 
-There are two files attached with Readme file in this Machine-Learning Repo. 
+There are two files in this Machine-Learning Repo. 
 The one is NaiveBayes_iPhone and other is K_Nearest_Neighbour.
 These two files contains the solution of a same problem with 2 different approaches. One approach uses Naive Bayes Model and other uses K Nearest Neighbour Moodel.
 
