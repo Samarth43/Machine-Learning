@@ -9,13 +9,6 @@ data = pd.read_csv("https://raw.githubusercontent.com/omairaasim/machine_learnin
 features = data.iloc[: , :3].values
 label = data.iloc[: ,3].values
 
-"""
-print(features)
-print(type(features))
-print("\n\n")
-print(label)
-print(type(label))
-"""
 # Converting Gender into Number
 le = LabelEncoder()
 features[: ,0] = le.fit_transform(features[: ,0])
